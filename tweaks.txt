@@ -1,0 +1,5 @@
+Most of the tweaks here are supposed to be changed using Cheat Engine!!
+
+Changing the value of this address from 00 to 01 changes how blur zoom works around the scope -
+by aLTis.
+haloce.exe+130ED8
