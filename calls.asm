@@ -15,4 +15,5 @@
 0050FD04     E8 E7230100    CALL haloce.005220F0 - Poly fog render call (???)
 0050FD22     E8 F9640400    CALL haloce.00556220 - Fog render call
 0050FE61     E8 8A76F8FF    CALL haloce.004974F0 - HUD render call + F1, F2 Tables (?)
+0050FE6D   | E8 DEB5F8FF  | CALL haloce.0049B450 - UI Widgets render call
 0050F797     E8 746F0000    CALL haloce.00516710 - FPS rasterizer call (?)
